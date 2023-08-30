@@ -5,7 +5,7 @@ Robert Tercek is one of the world’s most prolific creators of interactive cont
 **Website:** https://roberttercek.com/
 
 <a target="_blank" href="https://roberttercek.com/">
-    <img src="./images/robert-tercek.PNG" height="190px" alt="Prognose"/>
+    <img src="./images/robert-tercek.PNG" height="190px" alt="Robert Tercek"/>
 </a>
 
 ## How It's Made:
